@@ -24,8 +24,8 @@ This project explores whether stock price movements are supported by financial f
 
   
 ## Insights:
-	Tesla's revenue and stock price show steady growth — indicating strong fundamentals.
-	GameStop's stock spikes do not correlate with revenue — likely influenced by speculation.
+- Tesla's revenue and stock price show steady growth — indicating strong fundamentals.
+- GameStop's stock spikes do not correlate with revenue — likely influenced by speculation.
 
 ## Technologies Used:
 - Python
