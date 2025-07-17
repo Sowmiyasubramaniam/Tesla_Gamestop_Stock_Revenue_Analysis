@@ -28,12 +28,12 @@ Insights:
 	GameStop's stock spikes do not correlate with revenue — likely influenced by speculation.
 
 Technologies Used:
-	Python
-	pandas
-	matplotlib
-	yfinance
-	selenium + BeautifulSoup
-	Jupyter Notebook
+- Python
+- pandas
+- matplotlib
+- yfinance
+- selenium + BeautifulSoup
+- Jupyter Notebook
 
 How to Use:
 1. Clone this repo
