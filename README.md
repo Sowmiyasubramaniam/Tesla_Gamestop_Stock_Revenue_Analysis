@@ -45,3 +45,25 @@ Sowmiya S
 Technical Trainer | Aspiring Data Scientist  
 📫 ssks0648@gmail.com  
 🔗 [LinkedIn]( www.linkedin.com/in/sowmiya-s-73000a253)
+
+
+
+---
+
+## ▶️ How to Use
+
+1. Clone this repo
+2. Open `tesla_gamestop_dashboard.ipynb`
+3. Run all cells to see the dashboard and insights
+
+---
+
+## 👩‍💻 Author
+
+**Sowmiya S**  
+Technical Trainer | Aspiring Data Analyst  
+📫  ssks0648@gmail.com  
+🔗 [LinkedIn]( www.linkedin.com/in/sowmiya-s-73000a253)
+
+---
+
