@@ -13,11 +13,11 @@ Dataset Information:
 - Fields: Date, Closing Price, Revenue
 
 Features:
-•	Data Collection using Python
-•	Data Cleaning & Formatting
-•	Visualization with Matplotlib
-•	Dashboard with 4 Subplots
-•	Investment Insights for Analysts
+- Data Collection using Python
+- Data Cleaning & Formatting
+- Visualization with Matplotlib
+- Dashboard with 4 Subplots
+- Investment Insights for Analysts
 
 Visual Preview
 <img width="940" height="583" alt="image" src="https://github.com/user-attachments/assets/d19a44db-ae9d-4a4e-8945-ef01c4a1402e" />
